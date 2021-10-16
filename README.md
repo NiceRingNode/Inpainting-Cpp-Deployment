@@ -65,7 +65,7 @@ Visual Studio Profeesional 2019-16.11.1
 
 ![dark_mode](./Inpainting/demo/dark-mode.png)
 
-- [x] 切换不同的模型，使阴影面积占比不同的mask可以和对应的权重结合进行推理（关于不同阴影面积占比的比较，请参考本人对原论文的[复现](https://github.com/NiceRingNode/PartialConvolution)）
+- [x] Switching between different models, so that masks with different shadow area ratios can be combined with corresponding weights for inference (for the comparison of different shadow area ratios, please refer to my [re-implementation](https://github.com/NiceRingNode/PartialConvolution) of the original paper).
 
   ![select_weights](./Inpainting/demo/select.png)
 
