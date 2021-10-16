@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inpainting", "Inpainting\Inpainting.vcxproj", "{572A3416-FC1B-443F-B936-BCF0B527D9EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{572A3416-FC1B-443F-B936-BCF0B527D9EB}.Debug|x64.ActiveCfg = Debug|x64
+		{572A3416-FC1B-443F-B936-BCF0B527D9EB}.Debug|x64.Build.0 = Debug|x64
+		{572A3416-FC1B-443F-B936-BCF0B527D9EB}.Release|x64.ActiveCfg = Release|x64
+		{572A3416-FC1B-443F-B936-BCF0B527D9EB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7059F05-8233-494B-BBD4-98FA415787C4}
+	EndGlobalSection
+EndGlobal

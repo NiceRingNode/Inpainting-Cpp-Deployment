@@ -1,0 +1,1 @@
+﻿D:\Github\Inpainting-Cpp-Deployment\Inpainting\Inpainting.vcxproj(52,5): error MSB4019: The imported project "D:\Github\Debug Property\libtorch_debug.props" was not found. Confirm that the expression in the Import declaration "..\..\Debug Property\libtorch_debug.props" is correct, and that the file exists on disk.

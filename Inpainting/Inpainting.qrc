@@ -1,0 +1,51 @@
+<RCC>
+  <qresource prefix="Inpainting"/>
+  <qresource prefix="icons">
+    <file>icons/black_arrow.ico</file>
+    <file>icons/white_arrow.ico</file>
+    <file>icons/close2.ico</file>
+    <file>icons/maximize.ico</file>
+    <file>icons/maximize_default.ico</file>
+    <file>icons/close.ico</file>
+    <file>icons/close_default.ico</file>
+    <file>icons/minimize.ico</file>
+    <file>icons/minimize_default.ico</file>
+    <file>icons/inpaint_run.ico</file>
+    <file>icons/add_file.ico</file>
+    <file>icons/add_file_hover.ico</file>
+    <file>icons/clear.ico</file>
+    <file>icons/cut.ico</file>
+    <file>icons/dark_bulb.ico</file>
+    <file>icons/horn.ico</file>
+    <file>icons/Inpainting.ico</file>
+    <file>icons/light_bulb.ico</file>
+    <file>icons/open.ico</file>
+    <file>icons/origin.ico</file>
+    <file>icons/output.ico</file>
+    <file>icons/pause.ico</file>
+    <file>icons/pikachu.ico</file>
+    <file>icons/play.ico</file>
+    <file>icons/save.ico</file>
+    <file>icons/savev.ico</file>
+    <file>icons/screen.ico</file>
+    <file>icons/SR.ico</file>
+    <file>icons/whole.ico</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>images/close.png</file>
+    <file>images/close_default.png</file>
+    <file>images/maximize.png</file>
+    <file>images/maximize_default.png</file>
+    <file>images/minimize.png</file>
+    <file>images/minimize_default.png</file>
+    <file>images/add_file.png</file>
+    <file>images/add_file_hover.png</file>
+    <file>images/pushbutton.png</file>
+    <file>images/pushbutton_hover.png</file>
+    <file>images/pushbutton_pressed.png</file>
+  </qresource>
+  <qresource prefix="stylesheets">
+    <file>stylesheets/style_dark.qss</file>
+    <file>stylesheets/style_light.qss</file>
+  </qresource>
+</RCC>
