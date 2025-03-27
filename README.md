@@ -4,14 +4,14 @@
 
 This is a desktop software for image inpainting. It is a **C++ deployment** of image inpainting algorithm on Windows10, based on **C++17** and implemented using vs2019.
 
-The image inpainting algorithm is implemented using **LibTorch+OpenCV**, and the interface is implemented using **Qt**. For the time being, only one algorithm is implemented: [Image Inpainting for Irregular Holes Using Partial Convolutions](https:// arxiv.org/abs/1804.07723)[Liu+, arXiv2018]., but it can be used as a basic framework to expand algorithm deployment.
+The image inpainting algorithm is implemented using **LibTorch + OpenCV**, and the interface is implemented using **Qt**. For the time being, only one algorithm is implemented: [Image Inpainting for Irregular Holes Using Partial Convolutions](https:// arxiv.org/abs/1804.07723)[Liu+, arXiv2018]., but it can be used as a basic framework to expand algorithm deployment.
 
 # Requirements
 
 ```shell
 Libtorch-win-shared-with-deps-debug-1.9.1+cu102
 
-Opencv4.5.0
+OpenCV4.5.0
 
 Qt5.14.2
 
