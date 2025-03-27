@@ -1,6 +1,6 @@
-# Inpainting-Cpp-Deployment🌇:
+# Inpainting-Cpp-Deployment🌇
 
-[中文版在这里>>>>>>>>>>](./Inpainting/demo/README-中文版.md):orange:
+[中文版](./Inpainting/demo/README-中文版.md):orange:
 
 This is a desktop software for image inpainting. It is a **C++ deployment** of image inpainting algorithm on Windows10, based on **C++17** and implemented using vs2019.
 
